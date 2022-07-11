@@ -33,3 +33,5 @@ Content-type: application/json
 ### Product delete action 
 
 DELETE http://localhost:3000/products/2
+
+### 
