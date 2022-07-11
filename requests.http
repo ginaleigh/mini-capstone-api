@@ -17,3 +17,15 @@ Content-type: application/json
   "description": "",
   "image_url": "" 
 }
+
+### Products update action
+
+PATCH http://localhost:3000/products/1
+Content-type: application/json
+
+{
+  "name": "",
+  "price": "",
+  "description": "",
+  "image_url": "" 
+}
