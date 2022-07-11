@@ -16,4 +16,3 @@ product = Product.create({name: "Schefflera 'Variegated'", price: 20, descriptio
 
 product = Product.create({name: "Begonia 'Pink Spotted'", price: 30, description: "Begonia Amphioxus is a small but eye-catching plant that you can never deny introducing in your garden. The beautiful plant does not bear negligence, so you need to take care of it and provide it with the right growing conditions. Begonia Amphioxus is native to Borneo, Indonesia, and is native to tropical regions. You will love to grow this plant in your household. The plant is bushy and belongs to the Begonia family. The plant’s scientific name originates from ‘amphi’ ‘oxys’, meaning that the plant has pointed ends and they are elongated as well", image_url: "https://cdn.shopify.com/s/files/1/2528/3612/products/4_BEGONIA_PINK_SPOTTED_3_300228fa-978f-4b5f-b304-12d34eb68a7c_421x421.jpg?v=1654050318"})
 
-puts "Seeded Database"
