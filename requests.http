@@ -34,4 +34,14 @@ Content-type: application/json
 
 DELETE http://localhost:3000/products/2
 
-### 
+### Users create
+
+POST http://localhost:3000/users.json
+Content-Type: application/json
+
+{
+  "name": "Gina",
+  "email": "GinaMirando@test.com",
+  "password": "password",
+  "password_confirmation": "password"
+}
